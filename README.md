@@ -16,8 +16,6 @@ Across these projects, I demonstrate the ability to:
 - work with temporal and spatial data,
 - communicate insights clearly to non-technical audiences.
 
----
-
 ## Featured projects
 
 ### Spotify Shared Music Dashboard
@@ -112,6 +110,6 @@ An interactive dashboard enabling users to explore temporal and spatial bike usa
 These projects were developed as part of my university coursework during following classes:
 
 * Spotify Dashboard - Data Visualisation Techniques
-* Posters - Data Visualisation Techniques, Social Networks and Recommendation Systems
 * Cryptocurrency & Stock Markets Dashboard - Big Data Analytics
+* Posters - Data Visualisation Techniques, Social Networks and Recommendation Systems
 * NYC-Citibike Dashboard - Structured Data Processing
