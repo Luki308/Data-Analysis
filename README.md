@@ -5,7 +5,10 @@ This repository presents a collection of projects focused on providing appropria
 ---
 
 ## Featured projects
-
+1. [Spotify Shared Music Dashboard](#spotify-shared-music-dashboard-python)  (Python)
+2. [CryptoStock Prediction Dashboard](#cryptostock-prediction-dashboard-python--apache-big-data) (Python + Apache tools)
+3. [Posters](#posters-rpython) (R + Python)
+4. [NYC-Citibike Dashboard](#nyc-citibike-dashboard-r) (R)
 ### Spotify Shared Music Dashboard (Python)
 
 **Problem:**
@@ -21,7 +24,7 @@ A user-friendly interactive flow chart that reveals overlap in music preferences
 
 ---
 
-### Cryptocurrency & Stock Markets Dashboard (Python + Apache Big Data)
+### CryptoStock Prediction Dashboard (Python + Apache Big Data)
 
 **Problem:**
 
