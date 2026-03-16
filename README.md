@@ -5,10 +5,21 @@ This repository presents a collection of projects focused on providing appropria
 ---
 
 ## Featured projects
-1. [Spotify Shared Music Dashboard](#spotify-shared-music-dashboard-python)  (Python)
-2. [CryptoStock Prediction Dashboard](#cryptostock-prediction-dashboard-python--apache-big-data) (Python + Apache tools)
-3. [Posters](#posters-rpython) (R + Python)
+1. [Posters](#posters-rpython) (R + Python)
+2. [Spotify Shared Music Dashboard](#spotify-shared-music-dashboard-python)  (Python)
+3. [CryptoStock Prediction Dashboard](#cryptostock-prediction-dashboard-python--apache-big-data) (Python + Apache tools)
 4. [NYC-Citibike Dashboard](#nyc-citibike-dashboard-r) (R)
+
+### Posters (R+Python)
+
+**Outcome:**
+Three publication-styled posters translating technical and empirical analyses into clear, visually compelling stories across network science, machine learning, and sports economics.
+
+➡️ **Repository:** [Posters](https://github.com/Luki308/Posters)
+
+<img width="3290" height="2000" alt="Posters" src="https://github.com/user-attachments/assets/4769b0fc-ff72-4778-ba94-93015ed1e6a6" />
+
+---
 ### Spotify Shared Music Dashboard (Python)
 
 **Problem:**
@@ -37,16 +48,7 @@ An IaaC service that provided real-time crypto and stock market data on dashboar
 ➡️ **Repository:** [CryptoStockPrediction](https://github.com/szuvarska/CryptoStockPrediction)
 
 ![img]()
----
 
-### Posters (R+Python)
-
-**Outcome:**
-Three publication-styled posters translating technical and empirical analyses into clear, visually compelling stories across network science, machine learning, and sports economics.
-
-➡️ **Repository:** [Posters](https://github.com/Luki308/Posters)
-
-![combined_img]()
 ---
 
 ### NYC-Citibike Dashboard (R)
