@@ -20,7 +20,7 @@ A user-friendly interactive flow chart that reveals overlap in music preferences
 
 ➡️ **Repository:** [Spotify_Dashboard](https://github.com/Luki308/Spotify_Dashboard)
 
-![spotify_image](https://github.com/Luki308/Spotify_Dashboard/blob/main/image.png?raw=true)
+https://github.com/user-attachments/assets/5315f16d-336c-4d44-925f-9acaea9bb731
 
 ---
 
