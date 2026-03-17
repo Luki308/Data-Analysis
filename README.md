@@ -1,6 +1,6 @@
 # Data Analysis & Visualizations
 
-This repository presents a collection of projects focused on providing appropriate visualizations of data on interactive dashboards. It acts as a **navigation hub** that explains briefly each project and links to its dedicated implementation repository.
+This repository presents a collection of projects focused on providing appropriate visualizations of data on interactive dashboards. It acts as a **navigation hub** that explains each project and links to its dedicated implementation repository.
 
 ---
 
@@ -39,15 +39,15 @@ https://github.com/user-attachments/assets/5315f16d-336c-4d44-925f-9acaea9bb731
 
 **Problem:**
 
-How can real-time and historical market data be combined into a meaningful visualizations that drive decision making of traders?
+How can real-time and historical market data be combined into meaningful visualizations that drive the decision-making of traders?
 
 **Outcome:**
 
-An IaaC service that provided real-time crypto and stock market data on dashboard with predictions of a price for the next time window.
+An IaaC service that provided real-time crypto and stock market data on a dashboard with predictions of a price for the next time window.
 
 ➡️ **Repository:** [CryptoStockPrediction](https://github.com/szuvarska/CryptoStockPrediction)
 
-![img]()
+https://github.com/user-attachments/assets/e3d0958b-de8d-4907-858e-e3efa2571c4f
 
 ---
 
@@ -66,7 +66,7 @@ An interactive Shiny dashboard enabling users to explore temporal and spatial bi
 
 ## Context
 
-These projects were developed as part of my university coursework during following classes:
+These projects were developed as part of my university coursework during the following classes:
 
 * Spotify Dashboard - Data Visualisation Techniques
 * Cryptocurrency & Stock Markets Dashboard - Big Data Analytics
